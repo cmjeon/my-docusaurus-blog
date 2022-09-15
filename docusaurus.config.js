@@ -76,11 +76,6 @@ const config = {
             position: 'left'
           },
           {
-            to: '/til',
-            label: 'My TIL',
-            position: 'left'
-          },
-          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
